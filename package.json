@@ -1,0 +1,14 @@
+{
+  "name": "my-ai-coder",
+  "version": "1.0.0",
+  "description": "The backend for my AI Coder",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.22.0",
+    "express": "^4.19.2",
+    "body-parser": "^1.20.2"
+  }
+}
